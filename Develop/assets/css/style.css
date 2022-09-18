@@ -1,4 +1,4 @@
-/*General setting for the project*/
+/*General setting for the whole project*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,11 +16,6 @@ a {
 
 p {
     font-size: 16px;
-}
-
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 /*Header*/
@@ -63,7 +58,6 @@ header nav li {
     background-size: cover;
     background-position: center;
 }
-
 
 /*Main Content*/
 main {
